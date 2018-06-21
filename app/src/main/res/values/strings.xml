@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trainee project</string>
+    <string name="databasename">myDatabase</string>
+    <string name="cant_connect">Can\'t connect to server</string>
+    <string name="load_from_db">You have no internet connection, we are trying to load information from database.</string>
+    <string name="no_local_db">There no data in local database!</string>
+</resources>
